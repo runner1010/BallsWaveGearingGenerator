@@ -21,3 +21,6 @@ The smaller it is, the more compact the gearbox will be. But there is a limit to
 $R_{BH} \leq \frac{1.03 * d_{\omega(p)}}{sin(\pi / Z_{x})}$
 
 But don't worry, if you overdo it, the calculator will tell you.
+
+References:
+https://link.springer.com/article/10.1007/s10010-023-00688-1
